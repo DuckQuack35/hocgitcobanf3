@@ -1,0 +1,5 @@
+.env
+abc/
+
+# muốn xoá đa tầng thì abc/**/**.md
+# xoá all file .md ở các thư mục trong thư mục abc
